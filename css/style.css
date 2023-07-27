@@ -30,7 +30,6 @@ h1 {
 }
 
 .principal {
-    flex-grow: 1;
     flex-basis: auto;
     width: 600px;
     padding: 3.5em 2em 2em;
