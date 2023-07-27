@@ -32,7 +32,7 @@ h1 {
 .principal {
     flex-grow: 1;
     flex-basis: auto;
-    min-width: 600px;
+    width: 600px;
     padding: 3.5em 2em 2em;
     box-sizing: border-box;
     display: flex;
@@ -185,7 +185,7 @@ h1 {
     }
 
     .principal {
-        min-width: 80vw;
+        width: 80vw;
         padding-top: 2rem;
     }
 
